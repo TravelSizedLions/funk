@@ -4,5 +4,4 @@
 addons/*
 !addons/.editorconfig
 .addons/*
-
-!addons/funk
+!.addons/.gdignore
