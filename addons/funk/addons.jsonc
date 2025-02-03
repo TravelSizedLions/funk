@@ -2,7 +2,7 @@
   "$schema": "https://chickensoft.games/schemas/addons.schema.json",
   "name": "funk",
   "description": "A groovy godot reflection addon.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "cache": "../.addons",
   "addons": {}
 }
